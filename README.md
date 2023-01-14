@@ -4,4 +4,4 @@ here is the course I was participating in:
 
   https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis
 
-Last Update: Jan 10, 2023
+Last Update: Jan 13, 2023
